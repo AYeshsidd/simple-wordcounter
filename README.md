@@ -1,0 +1,2 @@
+# simple-wordcounter
+cli based 
